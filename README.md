@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving Front-End Devoloping Skills.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>HTML , css And Javascript<br><br><br>⚡ **Fun fact:**  <br>I love improving my skills.
+🔭 **I’m currently working on:**  <br>Improving Front-End Devoloping Skills.<br><br>👯 **I’m looking to collaborate on:**  <br>Front-End projects<br><br>🌱 **I’m currently learning:**  <br>HTML , Css And Javascript<br><br><br>⚡ **Fun fact:**  <br>I love improving my skills.
 
 
 ## 🌐 Socials:
